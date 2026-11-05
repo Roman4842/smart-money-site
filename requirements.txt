@@ -1,0 +1,7 @@
+flask
+gunicorn
+ccxt
+numpy
+requests
+cryptography
+pywebpush
